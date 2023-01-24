@@ -6,6 +6,14 @@ import re
 # Et pour la séquence, ce programme accepte toutes les chaînes qui sont formées exclusivement de "a", "t", "g" et/ou "c"
 # et contenant que 2 caractères
 
+#notice d'usage
+print("Veuillez à entrer la bonne valeur car "
+      "ce programme se chargera de mettre tous les caractères entrés en MINUSCULES "
+      "et supprimera TOUS les espaces.\n"
+      "La chaîne doit contenir au moins 2 caractères.\n"
+      "Elle doit être formée exclusivement d'une combinaison arbitraire de \"at\", \"ta\", \"gc\" ou \"cg\""
+      " et ne doit être composée que des caractères \"a\", \"t\", \"g\" et/ou \"c\". \n"
+      "La séquence doit contenir strictement 2 caractères dont \"a\", \"t\", \"c\" et/ou \"g\".\n")
 
 
 #saisie de la chaîne et de la séquence uniquement en STRING
